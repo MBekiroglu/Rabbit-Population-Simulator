@@ -1,5 +1,5 @@
-# RabbitSimulator2020
-Rabbit simulation task
+# Rabbit Population Simulator
+The purpose of this project was to create a Rabbit Population Simulator
 
 ## ----- Phase 1 -----
 
